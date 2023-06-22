@@ -1,7 +1,5 @@
 
 # **Photography Campus**
-
-This is project for Assignment 12
    
 <br/>
 
