@@ -31,6 +31,8 @@ This is project for Assignment 12
 
  - It is a Photography campus..  
  - Anyone all the top classes and instructors..
+ - Users can see the success rate of the campus.
+ - Users can see the feedback given by other
  - Anyone can book class and later can pay..
  - Instuctor can add class and mange their classes`..
  - admin can mange users and make any one instructor or admin
