@@ -1,0 +1,20 @@
+li a.active {
+    color: #F08428;
+    background: none;
+}
+
+li a:hover {
+    background: none;
+    border-bottom: 2px solid #F08428;
+}
+
+@media only screen and (max-width:768px) {
+    li a.active {
+        color: #F08428;
+    }
+
+    li a:hover {
+        color: #F08428;
+        border-bottom: none;
+    }
+}

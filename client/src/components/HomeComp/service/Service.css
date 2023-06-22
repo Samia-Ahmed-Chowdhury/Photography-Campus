@@ -1,0 +1,5 @@
+.service_bg{
+    background-image: url("../../../assets/overlay.png");
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
